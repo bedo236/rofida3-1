@@ -19,7 +19,7 @@ header{
      /* background-color: #700; */
      background-repeat: repeat;
      background-attachment: fixed;
-     background-size: contain;
+     background-size: cover;
      margin: 0;
     
  }
